@@ -5,14 +5,19 @@ This project implements a dynamically allocated linked list in MIPS32 assembly. 
 The program provides a menu-driven interface allowing users to:
 
   Insert a node in the correct position to maintain an ascending order.
+  
   Delete a node while preserving the sorted order.
+  
   Display the list in ascending order.
   
 Key Features:
 
   Dynamic memory allocation with sbrk
+
   Efficient insertion and deletion maintaining a sorted list
+  
   Modular implementation using subroutines for reusability
+  
   Executable on SPIM simulator
 
   
